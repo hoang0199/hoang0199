@@ -1,5 +1,5 @@
 ### Hi there 👋    
-<img align='right' src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp" width="230">
+<img align='right' src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp" width="400">
 
 <!--
 **hoang0199/hoang0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
