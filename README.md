@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 ![tumblr_n48kjpfo4S1qg6rkio1_500](https://user-images.githubusercontent.com/73126431/147957002-32374b97-a5b2-4e45-86d2-47482e0a2ba7.gif)
 
 <!--
