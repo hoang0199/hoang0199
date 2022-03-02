@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp" width="200">
 
-- 🌱 I’m currently learning TypeScript ⚡
 
 ![gnaohnt's github stats](https://github-readme-stats.vercel.app/api?username=hoang0199&show_icons=true)
 
@@ -16,4 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -  Fun fact: ...
+- 🌱 I’m currently learning TypeScript ⚡
 -->
